@@ -39,12 +39,9 @@ Naruto	Programação Orientada a Objetos
 Ninja	Classe
 Ninja específico (Naruto, Sasuke)	Objeto
 Técnicas (Estilos de Luta)	Métodos
-Características (chakra, vila)	Atributos
+Características (chakra, vila)	Atributos                                                                                                                                                                                                                                                        
 
 
 ------------------------------------------------------------------
 
 "Se você não gosta do seu destino, não aceite. Em vez disso, tenha a coragem de mudá-lo do jeito que você quer que seja!"
-Clãs / Evolução	Herança
-
-Eu não vou fugir e eu nunca vou voltar atrás na minha palavra, este é o meu jeito ninja de ser!
